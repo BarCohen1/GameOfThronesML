@@ -1,0 +1,101 @@
+Betweeness,Degree,Page Rank,Closeness,Weighted degree
+Arya Stark,Tyrion Lannister,Addison Hill,Arya Stark,Tyrion Lannister
+Tyrion Lannister,Arya Stark,Arya Stark,Catelyn Stark,Tywin Lannister
+Stannis Baratheon,Stannis Baratheon,Cersei Lannister,Cersei Lannister,Jaime Lannister
+Jon Snow,Cersei Lannister,Aerys II Targaryen,Eddard Stark,Stannis Baratheon
+Jaime Lannister,Jaime Lannister,Aeron Greyjoy,Tyrion Lannister,Cersei Lannister
+Daenerys Targaryen,Addison Hill,Jaime Lannister,Barristan Selmy,Jon Snow
+Eddard Stark,Eddard Stark,Jon Snow,Jaime Lannister,Eddard Stark
+Catelyn Stark,Jon Snow,Daenerys Targaryen,Stannis Baratheon,Sansa Stark
+Walder Frey,Barristan Selmy,Tyrion Lannister,Aeron Greyjoy,Barristan Selmy
+Cersei Lannister,Tywin Lannister,Eddard Stark,Aerys II Targaryen,Varys
+Aeron Greyjoy,Walder Frey,Aegon I Targaryen,Daenerys Targaryen,Theon Greyjoy
+Addison Hill,Daenerys Targaryen,Brandon Stark,Joffrey Baratheon,Robb Stark
+Barristan Selmy,Aerys II Targaryen,Catelyn Stark,Brandon Stark,Pycelle
+Robb Stark,Joffrey Baratheon,Barristan Selmy,Tywin Lannister,Daenerys Targaryen
+Theon Greyjoy,Robb Stark,Tywin Lannister,Arianne Martell,Kevan Lannister
+Aerys II Targaryen,Catelyn Stark,Stannis Baratheon,Addison Hill,Arya Stark
+Brienne of Tarth,Theon Greyjoy,Theon Greyjoy,Areo Hotah,Mace Tyrell
+Tywin Lannister,Aeron Greyjoy,Aegon II Targaryen,Brienne of Tarth,Viserys II Targaryen
+Davos Seaworth,Brienne of Tarth,Alesander Frey,Robb Stark,Petyr Baelish
+Aegon V Targaryen,Davos Seaworth,Alerie Hightower,Jon Snow,Walder Frey
+Joffrey Baratheon,Arianne Martell,Arianne Martell,Davos Seaworth,Renly Baratheon
+Arianne Martell,Aegon V Targaryen,Aegon IV Targaryen,Aegon V Targaryen,Joffrey Baratheon
+Brandon Stark,Renly Baratheon,Asha Greyjoy,Sansa Stark,Catelyn Stark
+Samwell Tarly,Alesander Frey,Sansa Stark,Renly Baratheon,Tommen Baratheon
+Aegon IV Targaryen,Sansa Stark,Brienne of Tarth,Aenys Frey,Oberyn Martell
+Aenys Frey,Brandon Stark,Aegon V Targaryen,Brynden Tully,Robert Baratheon
+Renly Baratheon,Aegon IV Targaryen,Joffrey Baratheon,Aegon I Targaryen,Jon Connington
+Sansa Stark,Margaery Tyrell,Alyssa Blackwood,Petyr Baelish,Margaery Tyrell
+Petyr Baelish,Jeor Mormont,Balon Greyjoy,Melisandre,Otto Hightower
+Mace Tyrell,Aenys Frey,Robb Stark,Addam Marbrand,Daemon Targaryen
+Jeor Mormont,Aegon II Targaryen,Alekyne Florent,Kevan Lannister,Jon Arryn
+Margaery Tyrell,Aegon I Targaryen,Victarion Greyjoy,Tommen Baratheon,Davos Seaworth
+Daemon I Blackfyre,Aegon III Targaryen,Davos Seaworth,Gregor Clegane,Viserys I Targaryen
+Aegon I Targaryen,Edmure Tully,Margaery Tyrell,Balon Greyjoy,Maegor I Targaryen
+Alesander Frey,Samwell Tarly,Alester Florent,Aegon IV Targaryen,Samwell Tarly
+Euron Greyjoy,Addam Marbrand,Walder Frey,Amory Lorch,Brandon Stark
+Brynden Tully,Mance Rayder,Edmure Tully,Harys Swyft,Tyland Lannister
+Chett,Brynden Tully,Amarei Crakehall,Cressen,Criston Cole
+Edmure Tully,Petyr Baelish,Mance Rayder,Balon Swann,Gerold Hightower
+Addam Marbrand,Alester Florent,Aegon III Targaryen,Varys,Ryam Redwyne
+Victarion Greyjoy,Areo Hotah,Euron Greyjoy,Jon Arryn,Roose Bolton
+Alester Florent,Alyn,Alannys Harlaw,Janos Slynt,Arianne Martell
+Mance Rayder,Balon Swann,Aenys Frey,Alester Florent,Corlys Velaryon
+Aegon II Targaryen,Viserys I Targaryen,Doran Martell,Alyn,Brienne of Tarth
+Yoren,Alekyne Florent,Samwell Tarly,Jeyne Poole,Aerys II Targaryen
+Balon Swann,Gregor Clegane,Daeron II Targaryen,Benjen Stark,Paxter Redwyne
+Anya Waynwood,Balon Greyjoy,Alys Karstark,Alys Karstark,Harys Swyft
+Brynden Rivers,Jon Arryn,Rhaegar Targaryen,Jon Connington,Janos Slynt
+Asha Greyjoy,Amarei Crakehall,Jeor Mormont,Artos Stark,Asha Greyjoy
+Jon Arryn,Asha Greyjoy,Brynden Tully,Edmure Tully,Baelor Targaryen
+Oberyn Martell,Doran Martell,Dafyn Vance,Samwell Tarly,Rhaegar Targaryen
+Daeron II Targaryen,Melisandre,Renly Baratheon,Theon Greyjoy,Loras Tyrell
+Aegon III Targaryen,Alerie Hightower,Kevan Lannister,Arys Oakheart,Aegon IV Targaryen
+Balon Greyjoy,Oberyn Martell,Jon Arryn,Ambrose Butterwell,Victarion Greyjoy
+Aelinor Penrose,Daeron II Targaryen,Petyr Baelish,Boros Blount,Aegon III Targaryen
+Tormund,Mace Tyrell,Amerei Frey,Margaery Tyrell,Alyn Velaryon
+Areo Hotah,Roose Bolton,Daemon Targaryen,Oberyn Martell,Randyll Tarly
+Alerie Hightower,Kevan Lannister,Mace Tyrell,Aelinor Penrose,Nymeria Sand
+Ambrose Butterwell,Ramsay Snow,Areo Hotah,Arnolf Karstark,Edmure Tully
+Alyssa Blackwood,Alyssa Blackwood,Benjen Stark,Alliser Thorne,Aeron Greyjoy
+Melisandre,Daemon I Blackfyre,Tormund,Bronn,Melisandre
+Aerys I Targaryen,Daemon Targaryen,Balon Botley,Rhaegar Targaryen,Viserys Targaryen
+Bowen Marsh,Corlys Velaryon,Varys,Chett,Edmyn Tully
+Dareon,Chett,Pycelle,Roose Bolton,Doran Martell
+Ramsay Snow,Tommen Baratheon,Aenys I Targaryen,Doran Martell,Lyonel Strong
+Benjen Stark,Alys Karstark,Drogo,Asha Greyjoy,Gregor Clegane
+Hobber Redwyne,Amory Lorch,Daemon I Blackfyre,Sandor Clegane,Jaehaerys I Targaryen
+Alyn,Aelinor Penrose,Oberyn Martell,Qyburn,Ramsay Snow
+Jon Connington,Victarion Greyjoy,Alys Frey,Gyles Rosby,Addison Hill
+Roose Bolton,Amerei Frey,Barbrey Dustin,Aegon III Targaryen,Daeron II Targaryen
+Jonos Bracken,Rhaegar Targaryen,Gregor Clegane,Azor Ahai,Balon Greyjoy
+Harys Swyft,Benjen Stark,Tommen Baratheon,Bowen Marsh,Myrcella Baratheon
+Tommen Baratheon,Yoren,Benfrey Frey,Illyrio Mopatis,Orys Baratheon
+Alannys Harlaw,Myrcella Baratheon,Viserys Targaryen,Walder Frey,Duncan
+Alyx Frey,Bowen Marsh,Viserys I Targaryen,Lysa Arryn,Murmison
+Alys Karstark,Artos Stark,Ramsay Snow,Euron Greyjoy,Qyburn
+Sandor Clegane,Aerys I Targaryen,Aerys I Targaryen,Aurane Waters,Aurane Waters
+Karyl Vance,Arys Oakheart,Jorah Mormont,Ilyn Payne,Orwyle
+Rohanne Webber,Tormund,Alliser Thorne,Loras Tyrell,Qarlton Chelsted
+Gormond Goodbrother,Alyx Frey,Roose Bolton,Hoster Tully,Merrett Frey
+Norbert Vance,Harys Swyft,Chett,Hobber Redwyne,Quentyn Martell
+Cleos Frey,Ambrose Butterwell,Yoren,Myrcella Baratheon,Sandor Clegane
+Gormon Tyrell,Varys,Alys Arryn,Bryce Caron,Mance Rayder
+Gawen Westerling,Barbrey Dustin,Cleos Frey,Amerei Frey,Rossart
+Cotter Pyke,Alyn Frey,Brynden Rivers,Emmon Frey,Aegon II Targaryen
+Viserys I Targaryen,Criston Cole,Emmon Frey,Cleos Frey,Lyman Beesbury
+Bronn,Cotter Pyke,Melisandre,Merrett Frey,Jasper Wylde
+Jaehaerys I Targaryen,Euron Greyjoy,Artos Stark,Darlessa Marbrand,Gyles Rosby
+Donal Noye,Janos Slynt,Viserys II Targaryen,Jeor Mormont,Valarr Targaryen
+Hizdahr zo Loraq,Bryan Frey,Bowen Marsh,Lyanna Stark,Brynden Rivers
+Andar Royce,Alliser Thorne,Sandor Clegane,Daemon I Blackfyre,Euron Greyjoy
+Varamyr,Alannys Harlaw,Rohanne Webber,Pycelle,Arys Oakheart
+Daemon Targaryen,Darlessa Marbrand,Jaehaerys I Targaryen,Robert Baratheon,Harrold Westerling
+Aerion Targaryen,Cerenna Lannister,Orys Baratheon,Meryn Trant,Elia Martell
+Barbrey Dustin,Jaehaerys I Targaryen,Jon Connington,Randyll Tarly,Mathis Rowan
+Alliser Thorne,Jon Connington,Harys Swyft,Gendry,Lysa Arryn
+Drogo,Jeyne Poole,Maegor I Targaryen,Beric Dondarrion,Jeor Mormont
+Tristifer Botley,Bronn,Lysa Arryn,Ramsay Snow,Daemon I Blackfyre
+Alyn Velaryon,Robert Baratheon,Myrcella Baratheon,Aegon II Targaryen,Kaeth
+Gregor Clegane,Selyse Florent,Gawen Westerling,Aerys I Targaryen,Selyse Florent
